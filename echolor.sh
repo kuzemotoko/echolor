@@ -1,12 +1,8 @@
 #!/bin/bash
 echo	Blue      Directory
 
-echo -e "\033[32m Green	     Executable or recognized data file"
-
-	Sky Blue  Linked file
-
-	Yellow with black background   Device
-
-	Pink	  Graphic image file		
-	
-	Red 	   Archive file 
+echo   Green	     Executable or recognized data file"
+echo Sky Blue  Linked file
+echo  Yellow with black background   Device
+echo Pink Graphic image file		
+echo Red Archive file 
