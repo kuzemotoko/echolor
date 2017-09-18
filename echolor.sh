@@ -1,7 +1,7 @@
 #!/bin/bash
 echo	Blue      Directory
 
-	Green     Executable or recognized data file
+echo -e "\033[32m Green"	     Executable or recognized data file
 
 	Sky Blue  Linked file
 
