@@ -1,8 +1,9 @@
 #!/bin/bash
-echo  White Text File
-echo	Blue Directory
-echo  Green  Executable or recognized data file
-echo  Sky Blue  Linked file
-echo  Yellow with black background Device
-echo  Pink Graphic image file		
-echo  Red Archive file 
+echo  White TEXT FILE
+echo	Blue DIRECTORY
+echo  Green  EXECUTABLE OR RECOGNIZED DATA
+echo  Sky Blue  LINKED FILE
+echo  Yellow With Black Background DEVICE
+echo  Pink GRAPHIC IMAGE FILE
+echo  Red ARCHIVE FILE
+echo Orange With Black Background BROKEN LINK
