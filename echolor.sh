@@ -1,5 +1,5 @@
 #!/bin/bash
-echo  White TEXT FILE
+echoWhite TEXT FILE
 echo	Blue DIRECTORY
 echo  Green  EXECUTABLE OR RECOGNIZED DATA
 echo  Sky Blue  LINKED FILE
