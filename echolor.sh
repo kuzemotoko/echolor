@@ -1,6 +1,6 @@
 #!/bin/bash
 echo  White TEXT FILE
-echo Blue DIRECTORY
+echo  Blue DIRECTORY
 echo  Green  EXECUTABLE OR RECOGNIZED DATA
 echo  Sky Blue  LINKED FILE
 echo  Yellow With Black Background DEVICE
