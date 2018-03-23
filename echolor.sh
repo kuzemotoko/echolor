@@ -1,4 +1,5 @@
 #!/bin/bash
+#dont4gettheresaREADMEOK?
 echo  White TEXT FILE
 echo  Blue DIRECTORY
 echo  Green  EXECUTABLE OR RECOGNIZED DATA
