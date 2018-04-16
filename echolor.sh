@@ -10,3 +10,4 @@ echo  Orphaned symbolic links: Blinking Bold white with red background
 echo  Block device driver: Bold yellow foreground, with black background
 echo  Missing links along with files they point to: Blinking Bold white with red background
 echo  Archives or compressed files(like tar,gz,zip,rpm): Red
+
