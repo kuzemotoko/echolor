@@ -1,4 +1,5 @@
 #!/bin/bash
+echo  Text files : White
 echo  Executable files: Green
 echo  Directory: Blue
 echo  Image files(jpg, gif, bmp, png, tif): Magenta
